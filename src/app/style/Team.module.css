@@ -1,0 +1,17 @@
+.team_container {
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5em;
+    background-color: #333;
+    color: #fff;
+    padding: 0.3em;
+    margin: 0.8em auto;
+    width: 500px;
+}
+
+.team_container h3 {
+    margin: 0.6em auto;
+    font-size: 1.2em;
+}
